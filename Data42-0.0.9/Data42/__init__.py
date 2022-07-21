@@ -1,0 +1,3 @@
+#from .Cleaning import remove_all_characters, filter_by_value, decoding, detect_outlier, missings, replace_missings, change_type, modify_datetime, modify_characters, remove_all_characters
+#from .Visualization import grid_plot, plot_predictions, correlation_test, c_mat, data_report_numeric, data_report_categ, data_report, countplot, pie_random, relplot, plot_feature_importance, bar_line_plot
+#from .Learning import generar_muestras_balanceo, balanceado, correlation_coeff, replace_missings_train_test, models, best_param_clf, classif_metrics, hashing
